@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  align-items: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    background-color: #ebebeb;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#equipe{
+  margin-top: -240px;
+  margin-left: 530px;
+}
+#cristian{
+  margin-left: 530px;
+}
+#gabriel{
+  margin-left: 530px;
+}
+#berti{
+  margin-left: 530px;
+}
+#davi{
+  margin-left: 530px;
+}
+#torto{
+  width: 30%;
+  border-radius: 10px;
+  margin-top: 175px;
+  margin-right: 600px;
+}
+
+#nook{
+  width: 30%;
+  margin-left: 600px;
+  margin-top: 30px;
+  border-radius: 7px;
+}
+#barra{
+  margin-top: -34px;
+  padding-left: 100px;
+  padding-bottom: 5px;
+  padding-right: 100px;
+  background-color: #000;
+}
+#subtitulo{
+  font-family: 'Inter', sans-serif;
+  font-style: italic;
+  font-weight: 400;
+}
+#titulo{
+  font-size: 50px;
+  text-align: center;
+  background-image: linear-gradient(to right, #00FF00, #32CD32, #228B22, #008000, #006400);
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  margin-top: -82px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#degrade{
+  margin-top: -20px;
+  text-align:center;
+  background-repeat:no-repeat;
+  width:100%;
+  height:900px;
+}
+#texto0{
+  margin-top: -260px;
+  margin-right: 550px;
+}
+#texto1{
+  margin-right: 550px;
+}
+#texto2{
+  margin-right: 550px;
+}
+#texto3{
+  margin-top: -10px;
+  margin-right: 550px;
+}
+#folha{
+  margin-right: 1000px;
+  margin-top: 12px;
+  width: 8%;
+}
+#divImg{
+  margin:auto
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
